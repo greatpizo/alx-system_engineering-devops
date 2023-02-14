@@ -1,0 +1,2 @@
+#!/bin/bassh
+tail -n 1 icta >> icta
